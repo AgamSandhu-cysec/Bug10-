@@ -5,3 +5,21 @@ This tool scans websites for the OWASP Top 10 vulnerabilities, helping identify 
 -HTML Report Output – Generates clean, color-coded reports in .html format for easy viewing and sharing.
 -Manual-Friendly – Doesn’t automate exploitation or deep fuzzing—designed to assist in early-stage assessments and manual validation workflows
 -Ideal for red teamers, bug bounty hunters, and learners who want a quick overview before diving deeper.
+
+
+
+
+
+
+
+
+
+
+
+  Copyright 2025 AgamPreetSandhu
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
