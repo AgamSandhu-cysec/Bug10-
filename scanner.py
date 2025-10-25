@@ -530,7 +530,11 @@ def print_legal_warning():
     • localhost / 127.0.0.1 (your own machine)
     • scanme.nmap.org (authorized test server)
     • Your own infrastructure with proper authorization
+    
+    
      Made By AgamSandhu and team with love and a little bit of arrogance. Because we know it works.
+
+     
     {Colors.ENDC}"""
     print(warning)
 
